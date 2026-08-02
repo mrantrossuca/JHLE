@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+  Update manifest for self-hosted force-install.
+  Replace EXTENSION_ID_HERE with the ID Chrome assigns when you pack the .crx,
+  and set codebase to the HTTPS URL where you host the .crx file.
+  This URL is what you point ExtensionInstallForcelist / the Admin console at.
+-->
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='enlpcfjfeclfndialonakjbccmkalghb'>
+    <updatecheck codebase='https://github.com/mrantrossuca/JHLE/blob/main/revisioneer.crx'
+                 version='1.0.0' />
+  </app>
+</gupdate>
