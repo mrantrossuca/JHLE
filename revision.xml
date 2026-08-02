@@ -7,7 +7,7 @@
 -->
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='cpcfeddomniddmoionhcigeenngkfpfd'>
-    <updatecheck codebase='https://github.com/mrantrossuca/JHLE/blob/main/revisioneer.crx'
+    <updatecheck codebase='https://mrantrossuca.github.io/JHLE/revisioneer.crx'
                  version='1.0.0' />
   </app>
 </gupdate>
