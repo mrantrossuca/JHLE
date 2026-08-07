@@ -6,8 +6,8 @@
   This URL is what you point ExtensionInstallForcelist / the Admin console at.
 -->
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='cpcfeddomniddmoionhcigeenngkfpfd'>
+  <app appid='enahimpfgpfdkbledchgmdnbdcgepdgp'>
     <updatecheck codebase='https://mrantrossuca.github.io/JHLE/revisioneer.crx'
-                 version='1.0.1' />
+                 version='1.0.2' />
   </app>
 </gupdate>
